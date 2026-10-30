@@ -12,4 +12,7 @@ git pull
 // Get Commits from the github (Online Repository)
 
 git push
-// Send Commits from Local Repository to the github 
+// Send Commits from Local Repository to the github
+
+git switch -c <branch name>
+git checkout <branch name>
