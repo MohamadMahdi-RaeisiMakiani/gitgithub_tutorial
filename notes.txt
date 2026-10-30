@@ -1,3 +1,15 @@
 git config --global user.name "Your Username"
 git config --global user.email "Your Email"
-test2
+
+git init
+git add <file name>
+git add .
+git commit -m "Commit Message"
+
+git remote
+
+git pull
+// Get Commits from the github (Online Repository)
+
+git push
+// Send Commits from Local Repository to the github 
